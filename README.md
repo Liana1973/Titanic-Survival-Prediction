@@ -1,6 +1,6 @@
 
 # Titanic Survival Prediction
-Titanic survival prediction using Decision Trees, feature engineering, GridSearchCV, and cost-complexity pruning.
+Titanic survival prediction using Decision Trees, feature engineering, GridSearchCV hyperparameter tuning and cost complexity pruning.
 
  
 ## Project Overview
